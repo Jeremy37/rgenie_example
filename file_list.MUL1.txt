@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1.genie_regions.tsv
+https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1.genie_replicates.tsv
+https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1.genie_replicates.qc_passed.tsv
 https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1_rs6700034_cDNA_rep1_pcr1.sortedByCoord.bam
 https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1_rs6700034_cDNA_rep1_pcr1.sortedByCoord.bam.bai
 https://raw.githubusercontent.com/Jeremy37/rgenie_example/master/MUL1/MUL1_rs6700034_cDNA_rep1_pcr2.sortedByCoord.bam
